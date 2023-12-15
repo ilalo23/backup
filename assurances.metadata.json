@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"broker2.assurances"},{"v":{"$numberInt":"2"},"unique":true,"key":{"code":{"$numberInt":"1"}},"name":"code_1","ns":"broker2.assurances","background":true}],"uuid":"f2c608de99294d5e893f31008ced42bc","collectionName":"assurances","type":"collection"}

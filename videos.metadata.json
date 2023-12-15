@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"broker2.videos"},{"v":{"$numberInt":"2"},"unique":true,"key":{"url":{"$numberInt":"1"}},"name":"url_1","ns":"broker2.videos","background":true}],"uuid":"49fa1753e0344287a9562bceb3fb50ea","collectionName":"videos","type":"collection"}

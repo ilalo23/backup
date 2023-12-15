@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"broker2.users"},{"v":{"$numberInt":"2"},"unique":true,"key":{"email":{"$numberInt":"1"}},"name":"email_1","ns":"broker2.users","background":true}],"uuid":"af42b121ff324965bbe4784bc621cf7a","collectionName":"users","type":"collection"}

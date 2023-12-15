@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"broker2.contractnotifications"}],"uuid":"f24afb3b589e481e8e5cd1453474e7bf","collectionName":"contractnotifications","type":"collection"}

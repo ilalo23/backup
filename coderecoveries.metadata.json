@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"broker2.coderecoveries"}],"uuid":"250f55de6a1346b8881bccebaabefecd","collectionName":"coderecoveries","type":"collection"}

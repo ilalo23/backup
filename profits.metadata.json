@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"broker2.profits"}],"uuid":"0a2d829155b04361806bf02c04ba24c2","collectionName":"profits","type":"collection"}

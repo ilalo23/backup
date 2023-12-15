@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"broker2.assuranceapis"},{"v":{"$numberInt":"2"},"unique":true,"key":{"uri":{"$numberInt":"1"}},"name":"uri_1","background":true,"ns":"broker2.assuranceapis"}],"uuid":"c37305654809463c8a0f4002030388a8","collectionName":"assuranceapis","type":"collection"}

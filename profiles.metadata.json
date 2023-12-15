@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"broker2.profiles"},{"v":{"$numberInt":"2"},"unique":true,"key":{"phone":{"$numberInt":"1"}},"name":"phone_1","background":true,"ns":"broker2.profiles"}],"uuid":"85db75eb454b49dc9112da9dd6da7d1e","collectionName":"profiles","type":"collection"}
